@@ -15,7 +15,7 @@ typedef struct
     float radius;
 } Ball;
 
-//Player
+//Paddel
 typedef struct
 {
     int x,y,width,height;
